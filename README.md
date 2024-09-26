@@ -1,15 +1,14 @@
-# Real Estate Price Analysis in Seattle
+# Capstone Project: Real Estate Price Analysis
 
-## Project Overview
+## Overview
 
-For my upcoming project, I will analyse real estate data related to house prices in and around Seattle, Washington. The primary objective of this project is to learn about Exploratory Data Analysis (EDA) and use it to create pipelines for processing data for machine learning purposes. After evaluating the results, it can be concluded that the Random Forest Regression (RFR) model performed the best among the three models used. We also concluded that the models have limitations in capturing the price trend
+For my first Capstone project in the Strategic Thinking discipline, I have developed this assessment. The main objective was to assess my ability to apply project management methodology in order to effectively develop and execute a capstone project.
 
-## The project's scope was divided into the following steps. 
+## Project Scope
 
-•	Data Analysis and Preprocessing: It uses visual methods and descriptive statistics to explore the dataset and summarize its main characteristics. It examines the data to understand its structure, quality, and patterns, including identifying missing values and outliers.
+I chose to work with data related to house prices in and around Seattle, Washington for this project. The tasks included:
 
-•	Data Preparation: Involves cleaning and transforming raw data into a suitable format for analysis, including handling missing values and normalizing features. 
-
-•	Feature Engineering: Involves creating or modifying features to improve machine learning model performance, such as encoding categorical variables and selecting relevant features. 
-
-•	Machine Learning: Involves selecting appropriate algorithms and training models and evaluating their performance to build robust and accurate predictive models. 
+- Conducting exploratory data analysis (EDA)
+- Pre-processing the data
+- Implementing at least one machine learning algorithm
+- Presenting my findings through a comprehensive report.
