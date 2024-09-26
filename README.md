@@ -6,8 +6,10 @@ For my upcoming project, I will analyse real estate data related to house prices
 
 ## The project's scope was divided into the following steps. 
 
-•	Data Analysis and Preprocessing: 
--	It uses visual methods and descriptive statistics to explore the dataset and summarize its main characteristics. It examines the data to understand its structure, quality, and patterns, including identifying missing values and outliers.
+•	Data Analysis and Preprocessing:It uses visual methods and descriptive statistics to explore the dataset and summarize its main characteristics. It examines the data to understand its structure, quality, and patterns, including identifying missing values and outliers.
+
 •	Data Preparation: Involves cleaning and transforming raw data into a suitable format for analysis, including handling missing values and normalizing features. 
+
 •	Feature Engineering: Involves creating or modifying features to improve machine learning model performance, such as encoding categorical variables and selecting relevant features. 
+
 •	Machine Learning: Involves selecting appropriate algorithms and training models and evaluating their performance to build robust and accurate predictive models. 
