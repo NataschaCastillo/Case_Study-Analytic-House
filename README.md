@@ -6,7 +6,7 @@ For my upcoming project, I will analyse real estate data related to house prices
 
 ## The project's scope was divided into the following steps. 
 
-•	Data Analysis and Preprocessing:It uses visual methods and descriptive statistics to explore the dataset and summarize its main characteristics. It examines the data to understand its structure, quality, and patterns, including identifying missing values and outliers.
+•	Data Analysis and Preprocessing: It uses visual methods and descriptive statistics to explore the dataset and summarize its main characteristics. It examines the data to understand its structure, quality, and patterns, including identifying missing values and outliers.
 
 •	Data Preparation: Involves cleaning and transforming raw data into a suitable format for analysis, including handling missing values and normalizing features. 
 
